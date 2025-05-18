@@ -29,8 +29,5 @@ emails.csv (example)            # Input dataset (assumed)
 
 ## ✍️ Author
 
-Developed by [Tejas](https://github.com/Tejas050798)
-
-## ⚖️ License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+Developed by Tejasvi Chandola
+Linkedin : https://www.linkedin.com/in/tejasvichandola/
