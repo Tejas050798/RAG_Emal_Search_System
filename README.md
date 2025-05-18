@@ -30,5 +30,5 @@ Documentation_of_helpmateAI   # documented approach to this project
 
 ## ✍️ Author
 
-Developed by Tejasvi Chandola
+Developed by Tejasvi Chandola<br>
 Linkedin : https://www.linkedin.com/in/tejasvichandola/
