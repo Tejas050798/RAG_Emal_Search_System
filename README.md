@@ -24,7 +24,8 @@ Emails are often messy, containing redundant headers, inline attachments, and br
 
 ```
 HelpMateAI_Email_Search.ipynb   # Main Jupyter notebook
-emails.csv (example)            # Input dataset (assumed)
+email_thread files   # Zipped data files
+Documentation_of_helpmateAI   # documented approach to this project
 ```
 
 ## ✍️ Author
